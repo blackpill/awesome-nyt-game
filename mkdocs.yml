@@ -56,6 +56,7 @@ markdown_extensions:
       permalink: true
 
 nav:
+- Home: index.md
 - Strands: strands.md
 
 copyright: 2024 <a href="https://github.com/blackpill">Blackpill</a>.
