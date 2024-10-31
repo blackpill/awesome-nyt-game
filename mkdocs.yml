@@ -1,7 +1,7 @@
 site_name: Awesome New York Times Games
 site_url: https://blackpill.github.io/awesome-nyt-game
 site_description: Curated list of awesome websites and resources to play games on New York Times.
-docs_dir: docs
+#docs_dir:
 repo_name: blackpill/awesome-nyt-game
 repo_url: https://github.com/blackpill/awesome-nyt-game
 edit_uri: edit/main/docs/
