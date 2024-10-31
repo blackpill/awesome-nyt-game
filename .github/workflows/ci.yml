@@ -24,3 +24,5 @@ jobs:
       #https://github.com/mhausenblas/mkdocs-deploy-gh-pages
       - name: Deploy MkDocs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
